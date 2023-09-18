@@ -2,7 +2,9 @@
 
 How to use?
 
+```
 composer require mjin/composer-demo
+```
 
 
 ```
