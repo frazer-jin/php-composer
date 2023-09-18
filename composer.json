@@ -1,0 +1,14 @@
+{
+    "name": "mjin/composer-demo",
+    "description": "Your package description",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mjin\\ComposerDemo\\": "src/"
+        }
+    },
+    "require": {
+        "predis/predis": "^2.2"
+    }
+}
